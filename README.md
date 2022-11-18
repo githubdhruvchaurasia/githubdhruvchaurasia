@@ -1,11 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Dhruv Chaurasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubdhruvchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="githubdhruvchaurasia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubdhruvchaurasia" alt="githubdhruvchaurasia" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1706dhruv" target="blank"><img src="https://img.shields.io/twitter/follow/1706dhruv?logo=twitter&style=for-the-badge" alt="1706dhruv" /></a> </p>
 
@@ -37,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubdhruvchaurasia&show_icons=true&locale=en" alt="githubdhruvchaurasia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubdhruvchaurasia&" alt="githubdhruvchaurasia" /></p>
+
