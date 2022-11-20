@@ -24,7 +24,7 @@
 <a href="https://twitter.com/1706dhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1706dhruv" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhruv-chaurasia-31ab6b232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-chaurasia-31ab6b232/" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruvchaurasia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvchaurasia_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dhruvchaurasia52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dhruvchaurasia52" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhruvchaurasia52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dhruvchaurasia52" height="30" width="40" /></a>
 <a href="https://discord.gg/#7732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7732" height="30" width="40" /></a>
 </p>
 
