@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dhruvchaurasia52@gmail.com**
 
-- 🤖 Active On ***https://twitter.com/1706dhruv*
+- 🤖 Active On **https://twitter.com/1706dhruv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
