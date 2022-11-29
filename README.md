@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Dhruv Chaurasia</h1>
-<h3 align="center">A passionate frontend developer from Lucknow, India</h3>
+<h1 align="center">Hope you are doing absolutely great, well Myself Dhruv Chaurasia. A second year undergraduarte student.</h1>
+<h3 align="center">I'm keen interseted in learning front End Development. I love to learning about new technology. I'm from Lucknow, India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w">
 
 
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/1706dhruv" target="blank"><img src="https://img.shields.io/twitter/follow/1706dhruv?logo=twitter&style=for-the-badge" alt="1706dhruv" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **JavaScript & Bootstrap**
 
-- 🤝 I’m looking for help with **Javascript Project**
+- 🤝 I’m looking for help with **JavaScript Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/githubdhruvchaurasia?tab=repositories](https://github.com/githubdhruvchaurasia?tab=repositories)
 
-- 💬 Ask me about **HTML5, CSS, Bootstrap, Git & Linux**
+- 💬 Ask me about **C, HTML5, CSS, Bootstrap, Git & Linux**
 
 - 📫 How to reach me **dhruvchaurasia52@gmail.com**
 
