@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/githubdhruvchaurasia?tab=repositories](https://github.com/githubdhruvchaurasia?tab=repositories)
 
-- 💬 Ask me about **C, HTML5, CSS, Bootstrap, Git & Linux**
+- 💬 Ask me about **C, Figma, HTML5, CSS, Bootstrap, Git & Linux**
 
 - 📫 How to reach me **dhruvchaurasia52@gmail.com**
 
