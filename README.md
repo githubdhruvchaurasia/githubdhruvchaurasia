@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **dhruvchaurasia52@gmail.com**
 
+- 🤖 Active On ***https://twitter.com/1706dhruv*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dhruvchaurasia52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruvchaurasisa52" height="30" width="40" /></a>
