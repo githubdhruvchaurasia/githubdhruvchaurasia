@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Hope you are doing absolutely great, well Myself Dhruv Chaurasia. A second year undergraduate student.</h1>
+<h1 align="center">Hi, Hope you are doing absolutely great, well Myself Dhruv Chaurasia. I'm a second year undergraduate student.</h1>
 <h3 align="center">I have keen interseted in learning front End Development. I love to learn about new technology. I'm from Lucknow, India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w">
 
