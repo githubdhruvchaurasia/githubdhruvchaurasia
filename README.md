@@ -8,16 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/1706dhruv" target="blank"><img src="https://img.shields.io/twitter/follow/1706dhruv?logo=twitter&style=for-the-badge" alt="1706dhruv" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript & Bootstrap**
-
-- 🤝 I’m looking for help with **JavaScript Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/githubdhruvchaurasia?tab=repositories](https://github.com/githubdhruvchaurasia?tab=repositories)
-
-- 💬 Ask me about **C, Figma, HTML5, CSS, Bootstrap, Git & Linux**
-
-- 📫 How to reach me **dhruvchaurasia52@gmail.com**
-
 - 🤖 Active On **www.linkedin.com/in/dhruv-chaurasia**
 
 <h3 align="left">Connect with me:</h3>
