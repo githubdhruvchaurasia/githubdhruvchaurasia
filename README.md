@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Hope you are doing absolutely great, well Myself Dhruv Chaurasia. I'm a second year undergraduate student.</h1>
+<h1 align="center">Hi, Hope you are doing absolutely great, well Myself Dhruv Chaurasia. I'm a final year undergraduate student.</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubdhruvchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="githubdhruvchaurasia" /> </p>
